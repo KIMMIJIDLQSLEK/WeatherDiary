@@ -24,7 +24,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	implementation 'com.googlecode.json-simple:json-simple:1.1.1' //JSON 데이터를 다루기 위헤
 	implementation 'io.springfox:springfox-boot-starter:3.0.0'
-	implementation 'io.springfox:sptingfox-swagger-ui:3.0.0'
+	implementation 'io.springfox:springfox-swagger-ui:3.0.0'
 	implementation 'com.mysql:mysql-connector-j' // MySql
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
